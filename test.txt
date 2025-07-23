@@ -1,0 +1,8 @@
+Hello,This is a Text file.
+
+This file is used to demonstrate Basic Git commands.
+
+Created by: G LOKANADHAM NAIDU
+Date: 23-07-2025
+
+Thank You!
