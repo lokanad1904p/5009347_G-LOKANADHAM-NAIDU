@@ -1,3 +1,3 @@
 # 5009347_G-LOKANADHAM-NAIDU
 
-![Agile Certificate](Agile%20Certificate%201.jpg)
+![Agile Certificate](Agile_Certificate_1.jpg)
