@@ -7,4 +7,4 @@ Hi,This is GEDDAM LOKANADHAM NAIDU(5009347)-This readme file contains my certifi
 # MY_CERTIFICATE
 
  
-![Agile Certificate](Agile_Certificate_1.jpg)
+![Agile Certificate](SDLC/Agile_Certificate_1.jpg)
