@@ -1,10 +1,11 @@
 # 5009347_G-LOKANADHAM-NAIDU
-
-
-Hi,This is GEDDAM LOKANADHAM NAIDU(5009347)-This readme file contains my certificates done in my first module session
+This readme file contains my certificates done during my first module session.
 
 
 # MY_CERTIFICATE
 
- 
-![Agile Certificate](https://github.com/lokanad1904p/5009347_G-LOKANADHAM-NAIDU/blob/main/SDLC/Agile_Certificate_1.jpg)
+ ![Agile Certificate](https://github.com/lokanad1904p/5009347_G-LOKANADHAM-NAIDU/blob/main/SDLC/Agile_Certificate_1.jpg)
+
+ # GIT TRAINING CERTIFICATE
+
+![Git Certificate](https://github.com/lokanad1904p/5009347_G-LOKANADHAM-NAIDU/blob/main/Git/5009347_G%20LOKANADHAM%20NAIDU%20Simplilearn%20Certificate.pdf)
